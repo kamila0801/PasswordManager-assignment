@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wq+UuzEq+2ZHum64u9s1fQz0dPYsLNcsGW11Wx5A8nQ=",
+  "Source": "PasswordManager_Rest",
+  "BasePath": "_content/PasswordManager_Rest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
