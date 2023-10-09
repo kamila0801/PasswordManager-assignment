@@ -47,7 +47,7 @@ export class PasswordManagerComponent implements OnInit{
   }
 
   hideUnits(){
-    location.reload();
+    this.res = [];
   }
 
 

@@ -6,3 +6,7 @@ node_modules/console-control-strings/README.md~
 .idea/vcs.xml
 .DS_Store
 .idea/vcs.xml
+/PasswordManager_backend/PasswordManager_Main/bin/
+/PasswordManager_backend/PasswordManager_Main/obj/
+/PasswordManager_backend/PasswordManager_Rest/bin/
+/PasswordManager_backend/PasswordManager_Rest/obj/
