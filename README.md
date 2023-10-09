@@ -1,8 +1,13 @@
 # PasswordManager
 
+## Screenshots
+
+![Screenshot 2023-10-09 at 14.21.34.png](screenshots/Screenshot%202023-10-09%20at%2014.21.34.png)
+![Screenshot 2023-10-09 at 14.22.12.png](screenshots/Screenshot%202023-10-09%20at%2014.22.12.png)
+
 ## How to run the application
 ### Frontend:
- - Step 1 - Go to folder “password-manager-fr” in terminal
+- Step 1 - Go to folder “password-manager-fr” in terminal
 - Step 2 - run npm install
 - Step 3 - run ng serve
 
@@ -15,7 +20,7 @@ You can create account through the frontend or swagger that can be accessed here
 
 ## Discussion
 
-### Human Element
+### Human Factor
 
 Essentially, the entire security of users' credential chain relies on a single master password, which is not entirely ideal. Users might forget the password, share it on insecure platforms, or use a weak password, jeopardizing the security of the data.
 
