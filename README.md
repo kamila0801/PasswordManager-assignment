@@ -1,4 +1,5 @@
 # PasswordManager
+Group: Kamila Potasiak
 
 ## Screenshots
 
