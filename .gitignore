@@ -1,12 +1,11 @@
 
 PasswordManager_backend/.DS_Store
 .idea
-node_modules/.DS_Store
-node_modules/console-control-strings/README.md~
-.idea/vcs.xml
+node_modules/
 .DS_Store
-.idea/vcs.xml
-/PasswordManager_backend/PasswordManager_Main/bin/
-/PasswordManager_backend/PasswordManager_Main/obj/
-/PasswordManager_backend/PasswordManager_Rest/bin/
-/PasswordManager_backend/PasswordManager_Rest/obj/
+PasswordManager_backend/PasswordManager_Main/bin/
+PasswordManager_backend/PasswordManager_Main/obj/
+PasswordManager_backend/PasswordManager_Rest/bin/
+PasswordManager_backend/PasswordManager_Rest/obj/
+PasswordManager_backend/PasswordManager_Security/bin/
+PasswordManager_backend/PasswordManager_Security/obj/
